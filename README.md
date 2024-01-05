@@ -1,7 +1,7 @@
 ### Hey, I'm Aniket (the internet also knows me as AnStoRmX).
 
 ---
-### I'm a student, developer, and "somewhat" designer
+### I'm a student and developer
 - I'm usually writing Javascript,C++,Solidity,Bash and Python
 - I'm currently a sophomore at BITS Pilani Goa
 
