@@ -2,7 +2,7 @@
 
 ---
 ### I'm a student and developer
-- I'm usually writing Javascript,C++,Solidity,Bash and Python
+- I'm usually writing Javascript, C++, Solidity, Bash and Python
 - I'm currently a sophomore at BITS Pilani Goa
 
 ### Spotify
